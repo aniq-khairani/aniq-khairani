@@ -1,12 +1,11 @@
 # About Me
-My personal portfolio showcasing projects in data analysis, dashboard building, and support engineering.
-
+My personal portfolio showcasing projects in data analysis and dashboard building.
 # Experience
-Data Analyst at KK Supermart and Superstore Sdn. Bhd.
+Data Analyst at KK Supermart and Superstore Sdn. Bhd. (Sept 25 - Now)
 
-Data Analyst Trainee at HeiTech Padu Berhad
+Data Analyst Trainee at HeiTech Padu Berhad (Mar 25 - Aug 25)
 
-Support Engineer Intern at Hatio SEA Sdn. Bhd.
+Support Engineer Intern at Hatio SEA Sdn. Bhd. (Sept 24 - Mar 25)
 
 # Projects
 
