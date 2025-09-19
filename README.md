@@ -1,6 +1,13 @@
 # About Me
 My personal portfolio showcasing projects in data analysis and dashboard building.
 
+## 🎓 Education
+
+![UKM](https://img.shields.io/badge/Universiti%20Kebangsaan%20Malaysia-Bioinformatics-red)  
+*B.Sc. (Hons) Bioinformatics (2021 – 2025)*  
+
+![KMNS](https://img.shields.io/badge/Kolej%Matrikulasi%Negeri%Sembialn-Foundation%20in%20Science%20Computer-blue)  
+*2019 – 2021*  
 
 
 ## 💼 Experience
