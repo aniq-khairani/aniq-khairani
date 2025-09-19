@@ -1,11 +1,30 @@
 # About Me
 My personal portfolio showcasing projects in data analysis and dashboard building.
-# Experience
-Data Analyst at KK Supermart and Superstore Sdn. Bhd. (Sept 25 - Now)
 
-Data Analyst Trainee at HeiTech Padu Berhad (Mar 25 - Aug 25)
 
-Support Engineer Intern at Hatio SEA Sdn. Bhd. (Sept 24 - Mar 25)
+## 💼 Experience
+
+> **Data Analyst** — KK Supermart and Superstore Sdn. Bhd.  
+> 📅 *Sept 2025 – Present*  
+
+> **Data Analyst Trainee** — HeiTech Padu Berhad  
+> 📅 *Mar 2025 – Aug 2025*  
+
+> **Support Engineer Intern** — Hatio SEA Sdn. Bhd.  
+> 📅 *Sept 2024 – Mar 2025*
+
+## 💼 Experience
+
+📊 **Data Analyst** — KK Supermart and Superstore Sdn. Bhd.  
+*Sept 2025 – Present*  
+
+📈 **Data Analyst Trainee** — HeiTech Padu Berhad  
+*Mar 2025 – Aug 2025*  
+
+🛠️ **Support Engineer Intern** — Hatio SEA Sdn. Bhd.  
+*Sept 2024 – Mar 2025*  
+
+
 
 # Projects
 
