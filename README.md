@@ -46,7 +46,7 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 
 ## 📂 Featured Projects
 
-### 🔹 [Deposit Details Summary](link-to-project)
+### 🔹 [Deposit Details Summary](https://github.com/aniq-khairani/deposit-details-summary-report)
 
 📌 **Goal:** Visualize summary of deposit details 
 ⚙️ **Tech:** Excel, Python, Pivot
