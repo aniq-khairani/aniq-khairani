@@ -43,25 +43,25 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 
 ## 📂 Featured Projects
 
-### 🔹 [Sales Dashboard in Power BI](link-to-project)
+### 🔹 [Deposit Details Summary](link-to-project)
 
-📌 **Goal:** Visualize sales trends across regions
-⚙️ **Tech:** Power BI, DAX, Data Modeling
-📈 **Outcome:** Identified high-performing products and optimized regional sales strategy
-
----
-
-### 🔹 [E-commerce SQL Analysis](link-to-project)
-
-📌 **Goal:** Analyze customer purchase behavior and retention
-⚙️ **Tech:** PostgreSQL, SQL Joins, CTEs
-📈 **Outcome:** Improved understanding of churn & repeat purchase trends
+📌 **Goal:** Visualize summary of deposit details 
+⚙️ **Tech:** Excel, Python, Pivot
+📈 **Outcome:** Store with highest deposit details
 
 ---
 
-### 🔹 [Python COVID-19 Data Analysis](link-to-project)
+### 🔹 [MyKasih OOS Report](link-to-project)
 
-📌 **Goal:** Explore infection and vaccination rates
+📌 **Goal:** Show Number of OOS Product
+⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
+📈 **Outcome:** OOS MyKasih SKU
+
+---
+
+### 🔹 [Put Away Pallet Report](link-to-project)
+
+📌 **Goal:** Show Pallet with GRN
 ⚙️ **Tech:** Python, pandas, matplotlib, seaborn
 📈 **Outcome:** Produced comparative country-level insights with visual storytelling
 
@@ -71,7 +71,7 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 
 * 🌐 Portfolio Website: \[Your site if available]
 * 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your_LinkedIn_URL)
-* 📧 Email: \[Your Email]
+* 📧 Email: \[aniqdanial1253@gmail.com]
 
 ---
 
