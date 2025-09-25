@@ -54,7 +54,7 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 
 ---
 
-### 🔹 [MyKasih OOS Report](link-to-project)
+### 🔹 [MyKasih OOS Report](https://github.com/aniq-khairani/myKasih-OOS-report)
 
 📌 **Goal:** Show Number of OOS Product
 ⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
