@@ -15,14 +15,14 @@ My personal portfolio showcasing projects in data analysis and dashboard buildin
 
 ## 💼 Experience
 
-📊 **Data Analyst** — KK Supermart and Superstore Sdn. Bhd.  (Digital)  
-*Sept 2025 – Present*  
+📊 **Data Analyst** — KK Supermart and Superstore Sdn. Bhd.    
+Digital Department *(Sept 2025 – Present)*  
 
-📈 **Data Analyst Trainee** — HeiTech Padu Berhad  (Big Data)  
-*Mar 2025 – Aug 2025*  
+📈 **Data Analyst Trainee** — HeiTech Padu Berhad    
+Big Data Department *(Mar 2025 – Aug 2025)*  
 
-🛠️ **Support Engineer Intern** — Hatio SEA Sdn. Bhd.  (Customer Success)  
-*Sept 2024 – Mar 2025*  
+🛠️ **Support Engineer Intern** — Hatio SEA Sdn. Bhd.    
+Customer Success Department *(Sept 2024 – Mar 2025)*  
 
 
 
@@ -41,6 +41,9 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-green)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
 ![GitHub](https://img.shields.io/badge/Git-GitHub-lightgrey)
+
+[![PostgreSQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/SQL-MySQL-orange)](https://www.mysql.com/)
 
 ---
 
