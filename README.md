@@ -42,8 +42,24 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 ![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
 ![GitHub](https://img.shields.io/badge/Git-GitHub-lightgrey)
 
-[![PostgreSQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/SQL-MySQL-orange)](https://www.mysql.com/)
+![SQL Server](https://img.shields.io/badge/Database-SQLServer-blue)
+![Oracle](https://img.shields.io/badge/Database-Oracle-red)
+![Redshift](https://img.shields.io/badge/Database-Redshift-orange)
+![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-green)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL|MySQL|Redshift|Oracle|SQLServer-blue)
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white)
+
 
 ---
 
