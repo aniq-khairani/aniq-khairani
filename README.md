@@ -6,11 +6,11 @@ My personal portfolio showcasing projects in data analysis and dashboard buildin
 ![UKM](https://img.shields.io/badge/Universiti%20Kebangsaan%20Malaysia-Bioinformatics-yellow)  
 *B.Sc. (Hons) Bioinformatics (2021 – 2025)*  
 
-![KMNS](https://img.shields.io/badge/Kolej%20Matrikulasi%20Negeri%20Sembialn-Foundation%20in%20Computer%20Science-blue)  
+![KMNS](https://img.shields.io/badge/Kolej%20Matrikulasi%20Negeri%20Sembilan-Foundation%20in%20Computer%20Science-blue)  
 *Matriculation Certificate (2020 – 2021)*  
 
 ![SMK DUSAJ](https://img.shields.io/badge/SMK%20Dato'%20Undang%20Syed%20Ali%20Al%20Jufri-Class%20Of%20Pure%20Science-red)  
-*SPM Certificate (2018 – 2019)*  
+*SPM Certificate (2017 – 2019)*  
 
 
 ## 💼 Experience
