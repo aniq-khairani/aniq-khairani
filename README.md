@@ -83,7 +83,7 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 
 ---
 
-### 🔹 [Put Away Pallet Report](link-to-project)
+### 🔹 [MySiswa Transaction Dashboard](https://github.com/aniq-khairani/mySiswa-transaction-report)
 
 📌 **Goal:** Show Pallet with GRN
 ⚙️ **Tech:** Python, pandas, matplotlib, seaborn
