@@ -49,6 +49,8 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-green)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL|MySQL|Redshift|Oracle|SQLServer-blue)
 
+## 🛠 Skills Learned in University
+
 ## 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
