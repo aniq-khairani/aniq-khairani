@@ -97,7 +97,7 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 ## 📫 Connect With Me
 
 * 🌐 Portfolio Website: \[Your site if available]
-* 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your_LinkedIn_URL)
+* 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniq-khairani/)
 * 📧 Email: \[aniqdanial1253@gmail.com]
 
 ---
