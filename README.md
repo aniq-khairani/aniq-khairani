@@ -61,9 +61,7 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white)
+
 
 
 ---
