@@ -5,12 +5,15 @@ My personal portfolio showcasing projects in data analysis and dashboard buildin
 
 ![UKM](https://img.shields.io/badge/Universiti%20Kebangsaan%20Malaysia-Bioinformatics-yellow)  
 *B.Sc. (Hons) Bioinformatics (2021 – 2025)*  
+Relevent Coursework: Database and Application (Microsoft Access), Computer Programming (C++), Software Development Methodology(HTML, JavaScript, )
 
 ![KMNS](https://img.shields.io/badge/Kolej%20Matrikulasi%20Negeri%20Sembilan-Foundation%20in%20Computer%20Science-blue)  
 *Matriculation Certificate (2020 – 2021)*  
+Relevant Coursework: Science Computer, Mathematics
 
 ![SMK DUSAJ](https://img.shields.io/badge/SMK%20Dato'%20Undang%20Syed%20Ali%20Al%20Jufri-Class%20Of%20Pure%20Science-red)  
 *SPM Certificate (2017 – 2019)*  
+Relevant Coursework: Additional Mathematics, Mathematics
 
 
 ## 💼 Experience
