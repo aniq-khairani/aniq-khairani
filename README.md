@@ -68,7 +68,23 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 
 ## 📂 Featured Projects
 
-### 🔹 [Deposit Details Summary](https://github.com/aniq-khairani/deposit-details-summary-report)
+### 🔹 [GRN & GRTN Monthly Report](https://github.com/aniq-khairani/deposit-details-summary-report)
+
+📌 **Goal:** Visualize summary of deposit details 
+⚙️ **Tech:** Excel, Python, Pivot
+📈 **Outcome:** Store with highest deposit details
+
+---
+
+### 🔹 [Store OOS Report](https://github.com/aniq-khairani/myKasih-OOS-report)
+
+📌 **Goal:** Show Number of OOS Product
+⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
+📈 **Outcome:** OOS MyKasih SKU
+
+---
+
+### 🔹 [TNG Limit](https://github.com/aniq-khairani/deposit-details-summary-report)
 
 📌 **Goal:** Visualize summary of deposit details 
 ⚙️ **Tech:** Excel, Python, Pivot
@@ -85,6 +101,54 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 ---
 
 ### 🔹 [MySiswa Transaction Dashboard](https://github.com/aniq-khairani/mySiswa-transaction-report)
+
+📌 **Goal:** Show Pallet with GRN
+⚙️ **Tech:** Python, pandas, matplotlib, seaborn
+📈 **Outcome:** Produced comparative country-level insights with visual storytelling
+
+---
+
+### 🔹 [Cost & Selling Price Report](https://github.com/aniq-khairani/deposit-details-summary-report)
+
+📌 **Goal:** Visualize summary of deposit details 
+⚙️ **Tech:** Excel, Python, Pivot
+📈 **Outcome:** Store with highest deposit details
+
+---
+
+### 🔹 [DC Put Away Pallet](https://github.com/aniq-khairani/myKasih-OOS-report)
+
+📌 **Goal:** Show Number of OOS Product
+⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
+📈 **Outcome:** OOS MyKasih SKU
+
+---
+
+### 🔹 [Deposit Details Summary](https://github.com/aniq-khairani/mySiswa-transaction-report)
+
+📌 **Goal:** Show Pallet with GRN
+⚙️ **Tech:** Python, pandas, matplotlib, seaborn
+📈 **Outcome:** Produced comparative country-level insights with visual storytelling
+
+---
+
+### 🔹 [KSP Enforcement Dashboard](https://github.com/aniq-khairani/ksp-enforcement-dashboard)
+
+📌 **Goal:** Visualize summary of deposit details 
+⚙️ **Tech:** Excel, Python, Pivot
+📈 **Outcome:** Store with highest deposit details
+
+---
+
+### 🔹 [KSP Overview Dashboard](https://github.com/aniq-khairani/ksp-overview-dashboard)
+
+📌 **Goal:** Show Number of OOS Product
+⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
+📈 **Outcome:** OOS MyKasih SKU
+
+---
+
+### 🔹 [Support Dashboard](https://github.com/aniq-khairani/support-dashboard)
 
 📌 **Goal:** Show Pallet with GRN
 ⚙️ **Tech:** Python, pandas, matplotlib, seaborn
