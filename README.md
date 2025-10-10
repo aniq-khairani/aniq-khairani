@@ -34,19 +34,19 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 
 ---
 
+
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX-green)
-![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
-![GitHub](https://img.shields.io/badge/Git-GitHub-lightgrey)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![SQL Server](https://img.shields.io/badge/Database-SQLServer-blue)
-![Oracle](https://img.shields.io/badge/Database-Oracle-red)
-![Redshift](https://img.shields.io/badge/Database-Redshift-orange)
-![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-green)
-
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C1515?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ---
