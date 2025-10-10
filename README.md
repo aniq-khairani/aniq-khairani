@@ -1,5 +1,6 @@
 # About Me
-My personal portfolio showcasing projects in data analysis and dashboard building.
+Hi, I’m Aniq. A data enthusiast passionate about finding stories in data and building dashboards that help businesses make better decisions.
+This is my personal portfolio showcasing projects in data analysis and dashboard building.
 
 ## 🎓 Education
 
@@ -12,6 +13,7 @@ My personal portfolio showcasing projects in data analysis and dashboard buildin
 ![SMK DUSAJ](https://img.shields.io/badge/SMK%20Dato'%20Undang%20Syed%20Ali%20Al%20Jufri-Class%20Of%20Pure%20Science-red)  
 *SPM Certificate (2017 – 2019)*  
 
+---
 
 ## 💼 Experience
 
@@ -24,29 +26,70 @@ Big Data Department *(Mar 2025 – Aug 2025)*
 🛠️ **Support Engineer Intern** — Hatio SEA Sdn. Bhd.    
 Customer Success Department *(Sept 2024 – Mar 2025)*  
 
+---
+
+## 📫 Connect With Me
+
+* 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniq-khairani/)
+* 📧 Email: \[aniqdanial1253@gmail.com]
+
+---
 
 
 # Projects
 
 # 📊 Data Analisis Portfolio
 
-Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories in data and building dashboards that help businesses make better decisions.
 
 ---
 
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C1515?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C1515?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+
+  <!-- Data Engineering & Cloud -->
+  <img src="https://img.shields.io/badge/SSIS-217346?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <!-- BI & Analytics Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-2C2C2C?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/M%20Code-5A5A5A?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotfire-FF7C00?style=for-the-badge&logo=tibco&logoColor=white"/>
+
+  <!-- Microsoft Tools -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 
 ---
@@ -138,14 +181,6 @@ Hi, I’m **Aniq** 👋 — a data enthusiast passionate about finding stories i
 📌 **Goal:** Show Pallet with GRN
 ⚙️ **Tech:** Python, pandas, matplotlib, seaborn
 📈 **Outcome:** Produced comparative country-level insights with visual storytelling
-
----
-
-## 📫 Connect With Me
-
-* 🌐 Portfolio Website: \[Your site if available]
-* 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniq-khairani/)
-* 📧 Email: \[aniqdanial1253@gmail.com]
 
 ---
 
