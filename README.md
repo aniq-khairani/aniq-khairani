@@ -31,15 +31,11 @@ Customer Success Department *(Sept 2024 – Mar 2025)*
 ## 📫 Connect With Me
 
 * 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniq-khairani/)
-* 📧 Email: \[aniqdanial1253@gmail.com]
+* 📧 Email: \[aniqdanial1253@gmail.com]  
 
 ---
 
-
-# Projects
-
-# 📊 Data Analisis Portfolio
-
+# Data Analisis Projects
 
 ---
 
@@ -94,93 +90,14 @@ Customer Success Department *(Sept 2024 – Mar 2025)*
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
-### 🔹 [GRN & GRTN Monthly Report](https://github.com/aniq-khairani/deposit-details-summary-report)
-
-📌 **Goal:** Visualize summary of deposit details 
-⚙️ **Tech:** Excel, Python, Pivot
-📈 **Outcome:** Store with highest deposit details
-
----
-
-### 🔹 [Store OOS Report](https://github.com/aniq-khairani/myKasih-OOS-report)
-
-📌 **Goal:** Show Number of OOS Product
-⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
-📈 **Outcome:** OOS MyKasih SKU
-
----
-
-### 🔹 [TNG Limit](https://github.com/aniq-khairani/deposit-details-summary-report)
-
-📌 **Goal:** Visualize summary of deposit details 
-⚙️ **Tech:** Excel, Python, Pivot
-📈 **Outcome:** Store with highest deposit details
-
----
-
-### 🔹 [MyKasih OOS Report](https://github.com/aniq-khairani/myKasih-OOS-report)
-
-📌 **Goal:** Show Number of OOS Product
-⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
-📈 **Outcome:** OOS MyKasih SKU
-
----
-
-### 🔹 [MySiswa Transaction Dashboard](https://github.com/aniq-khairani/mySiswa-transaction-report)
-
-📌 **Goal:** Show Pallet with GRN
-⚙️ **Tech:** Python, pandas, matplotlib, seaborn
-📈 **Outcome:** Produced comparative country-level insights with visual storytelling
-
----
-
-### 🔹 [Cost & Selling Price Report](https://github.com/aniq-khairani/deposit-details-summary-report)
-
-📌 **Goal:** Visualize summary of deposit details 
-⚙️ **Tech:** Excel, Python, Pivot
-📈 **Outcome:** Store with highest deposit details
-
----
-
-### 🔹 [DC Put Away Pallet](https://github.com/aniq-khairani/myKasih-OOS-report)
-
-📌 **Goal:** Show Number of OOS Product
-⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
-📈 **Outcome:** OOS MyKasih SKU
-
----
-
-### 🔹 [Deposit Details Summary](https://github.com/aniq-khairani/mySiswa-transaction-report)
-
-📌 **Goal:** Show Pallet with GRN
-⚙️ **Tech:** Python, pandas, matplotlib, seaborn
-📈 **Outcome:** Produced comparative country-level insights with visual storytelling
-
----
-
-### 🔹 [KSP Enforcement Dashboard](https://github.com/aniq-khairani/ksp-enforcement-dashboard)
-
-📌 **Goal:** Visualize summary of deposit details 
-⚙️ **Tech:** Excel, Python, Pivot
-📈 **Outcome:** Store with highest deposit details
-
----
-
-### 🔹 [KSP Overview Dashboard](https://github.com/aniq-khairani/ksp-overview-dashboard)
-
-📌 **Goal:** Show Number of OOS Product
-⚙️ **Tech:** Power BI, Amazon Redshift, CTEs, 
-📈 **Outcome:** OOS MyKasih SKU
-
----
-
-### 🔹 [Support Dashboard](https://github.com/aniq-khairani/support-dashboard)
-
-📌 **Goal:** Show Pallet with GRN
-⚙️ **Tech:** Python, pandas, matplotlib, seaborn
-📈 **Outcome:** Produced comparative country-level insights with visual storytelling
+| | | |
+|:--:|:--:|:--:|
+| [**GRN & GRTN Monthly Report**](https://github.com/aniq-khairani/deposit-details-summary-report)<br>💼 *Excel ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat), Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat), Pivot* | [**Store OOS Report**](https://github.com/aniq-khairani/myKasih-OOS-report)<br>📊 *Power BI ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat), Redshift ![Redshift](https://img.shields.io/badge/-Redshift-232F3E?logo=amazonredshift&logoColor=white&style=flat), CTEs* | [**TNG Limit**](https://github.com/aniq-khairani/deposit-details-summary-report)<br>📈 *Excel ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat), Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat), Pivot* |
+| [**MyKasih OOS Report**](https://github.com/aniq-khairani/myKasih-OOS-report)<br>📊 *Power BI ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat), Redshift ![Redshift](https://img.shields.io/badge/-Redshift-232F3E?logo=amazonredshift&logoColor=white&style=flat)* | [**MySiswa Transaction Dashboard**](https://github.com/aniq-khairani/mySiswa-transaction-report)<br>🐍 *Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat), pandas ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat), seaborn* | [**Cost & Selling Price Report**](https://github.com/aniq-khairani/deposit-details-summary-report)<br>📊 *Excel ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat), Pivot* |
+| [**DC Put Away Pallet**](https://github.com/aniq-khairani/myKasih-OOS-report)<br>📊 *Power BI ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat), Redshift ![Redshift](https://img.shields.io/badge/-Redshift-232F3E?logo=amazonredshift&logoColor=white&style=flat)* | [**Deposit Details Summary**](https://github.com/aniq-khairani/mySiswa-transaction-report)<br>📉 *Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat), matplotlib ![matplotlib](https://img.shields.io/badge/-matplotlib-11557C?logo=plotly&logoColor=white&style=flat)* | [**KSP Enforcement Dashboard**](https://github.com/aniq-khairani/ksp-enforcement-dashboard)<br>📋 *Excel ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat), Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)* |
+| [**Support Dashboard**](https://github.com/aniq-khairani/support-dashboard)<br>📊 *Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat), pandas ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)* | | |
 
 ---
 
