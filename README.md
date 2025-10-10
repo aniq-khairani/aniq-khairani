@@ -101,5 +101,5 @@ Customer Success Department *(Sept 2024 – Mar 2025)*
 
 ---
 
-⭐ Feel free to fork my projects or reach out for collaboration!
+⭐ Feel free to reach out for collaboration!
 
