@@ -28,6 +28,20 @@ Customer Success Department *(Sept 2024 – Mar 2025)*
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Aniq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniq-khairani&show_icons=true&theme=tokyonight&title_color=facc15&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniq-khairani&layout=compact&theme=tokyonight&title_color=facc15&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=aniq-khairani&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=facc15&currStreakLabel=facc15)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniq-khairani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&title=MultiLanguage,Commits,Repositories,Followers,PullRequest,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 * 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniq-khairani/)
