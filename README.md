@@ -44,8 +44,7 @@ Customer Success Department *(Sept 2024 – Mar 2025)*
 
 ## 📫 Connect With Me
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniq-khairani/)
-* [![Email](https://img.shields.io/badge/Email-aniqdanial1253%40gmail.com-red)](mailto:aniqdanial1253@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniq-khairani/) [![Email](https://img.shields.io/badge/Email-aniqdanial1253%40gmail.com-red)](mailto:aniqdanial1253@gmail.com)
 
 
 ---
