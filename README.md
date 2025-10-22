@@ -17,9 +17,9 @@ This is my personal portfolio showcasing projects in data analysis and dashboard
 ## Certification
 
 - **Navigating Through Microsoft Power BI**     
-Microsoft with HRD Corp e-Latih *(July 2025)*
+*Microsoft with HRD Corp e-Latih (July 2025)*
 - **Managing Data with Microsoft 365**    
-Microsoft with HRD Corp e-Latih *(June 2025)*  
+*Microsoft with HRD Corp e-Latih (June 2025)*  
 
 
 ---
